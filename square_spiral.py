@@ -9,7 +9,7 @@ myPen.speed(0)
 myPen.color("#FF0000")
 
 myPen.penup()
-myPen.goto(-side/2,-side/2) # position cursor at the bootom right of the screen
+myPen.goto(-side/2,-side/2) # position cursor at the bottom right of the screen
 myPen.pendown()
 
 # Start Spiral
